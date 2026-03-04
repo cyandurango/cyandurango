@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi! I'm Cyril!
+An aspiring computer engineer specializing in back-end development, front-end development, firmware, embedded systems, and AI automation.
+
 
 <!--
 **cyandurango/cyandurango** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
