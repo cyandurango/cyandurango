@@ -2,7 +2,7 @@
 
 ### About Me:
 🖥️ Specializes in _**back- and front-end development, embedded systems, and AI automation**_. </br>
-👨🏻‍💻 Interning as a remote back-end developer at _**Focus Bear Pty Ltd**_ </br>
+👨🏻‍💻 (Soon) Interning as a remote back-end developer at _**Focus Bear Pty Ltd**_ </br>
 🌱 Learning and enhancing current knowledge on back-end development </br>
 </br>
 ## ⌨️ Tech Stack Knowledge
