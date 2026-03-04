@@ -1,4 +1,5 @@
-## Hi! I'm Cyril!
+<img width="2000" height="300" alt="github_banner" src="https://github.com/user-attachments/assets/daa91bf3-63cd-4e48-90c7-e417759e4e69" />
+
 An aspiring computer engineer specializing in back-end development, front-end development, firmware, embedded systems, and AI automation.
 
 
