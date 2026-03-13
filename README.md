@@ -1,10 +1,8 @@
 # <img width="2000" height="300" alt="github_banner" src="https://github.com/user-attachments/assets/daa91bf3-63cd-4e48-90c7-e417759e4e69" />
-
 🖥️    &nbsp; Specializes in _**firmware development, back- and front-end development, embedded systems, and AI automation**_. </br>
 👨🏻‍💻    &nbsp; Interning as a remote back-end developer at _**Focus Bear Pty Ltd**_ </br>
 🌱    &nbsp; Learning and enhancing current knowledge on **back-end development** </br>
 </br>
----
 
 ## ⌨️ Tech Stack Knowledge
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -22,7 +20,11 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 </br>
-
+___
+### currently working on...
+💼  &nbsp; A Personal Portfolio Website (ReactJS + Vite + Vercel) <br/>
+🌐  &nbsp; A Server-Website Application (NestJS + PostgreSQL) <br/>
+<br/>
 <div align="center">
   - - -</br>
   <em>"Everyone is always better than you at at least one thing, </br> 
