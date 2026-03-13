@@ -2,8 +2,10 @@
 
 🖥️    &nbsp; Specializes in _**firmware development, back- and front-end development, embedded systems, and AI automation**_. </br>
 👨🏻‍💻    &nbsp; Interning as a remote back-end developer at _**Focus Bear Pty Ltd**_ </br>
-🌱    &nbsp; Learning and enhancing current knowledge on back-end development </br>
+🌱    &nbsp; Learning and enhancing current knowledge on **back-end development** </br>
 </br>
+---
+
 ## ⌨️ Tech Stack Knowledge
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white)
